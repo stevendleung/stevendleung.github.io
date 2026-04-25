@@ -9,7 +9,7 @@ I'm a Senior Machine Learning Engineer at [Duo Security (Cisco)](https://duo.com
 
 ## What I Work On
 
-**Threat Detection ML** -- I build production ML systems that detect adversarial behavior. I led [device quarantine](https://duo.com) from ideation through product deployment: building a novel data labeling system from scratch in a space with no existing labels, developing high-precision detectors for malicious MFA device registrations, and driving cross-functional delivery across design and engineering.
+**Threat Detection ML** -- I build production ML systems that detect adversarial behavior. I led [device quarantine](https://duo.com) from ideation through product deployment: building a novel data labeling system from scratch in a space with no existing labels, developing high-precision detectors for malicious MFA device registrations, and driving cross-functional delivery across design and engineering. I'm a regular contributor to [Cisco Talos' annual threat intelligence reports](https://blog.talosintelligence.com/2025yearinreview/) on attacks against MFA, and have appeared on the [Talos Takes podcast](https://talostakes.talosintelligence.com/2018149/episodes/16988482-year-in-review-special-part-3-identity-and-mfa-attacks) discussing identity and MFA attack trends. I also [presented at CAMLIS 2025](https://www.camlis.org/steven-leung-2025) on evaluating risk-based authentication effectiveness in production 2FA systems.
 
 **Agentic AI Security** -- I lead research on runtime detection for AI agents and risk categorization of LLM tools. I've [published on agentic AI security threats](https://duo.com/blog/agentic-ai-security-threats) and am developing approaches to making AI agents safer to deploy.
 
