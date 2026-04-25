@@ -23,6 +23,10 @@ Senior Machine Learning Engineer focused on the intersection of cybersecurity an
 I build ML-powered threat detection systems at [Duo Security (Cisco)](https://duo.com) and research how to make AI agents safer. My work spans adversarial detection, runtime agent security, and context engineering for agentic AI systems. I also design and build agentic AI solutions that help small businesses transform manual workflows into intelligent, automated operations.
 
 Currently exploring: runtime detection for AI agents, red-teaming agent safety classifiers, and applying cybersecurity methodology to AI safety problems.
+
+**Recent publications:**
+- [Agentic AI Security Threats](https://duo.com/blog/agentic-ai-security-threats) — Duo Security Blog, 2026
+- [Evaluating Risk-Based Authentication in Production 2FA Systems](https://www.camlis.org/steven-leung-2025) — CAMLIS 2025 (Conference on Applied ML for Information Security)
 """
 
   [[params.socialIcons]]
@@ -36,7 +40,7 @@ Currently exploring: runtime detection for AI agents, red-teaming agent safety c
 [menu]
   [[menu.main]]
     identifier = "writing"
-    name = "Writing"
+    name = "Writing & Talks"
     url = "/writing/"
     weight = 10
   [[menu.main]]

@@ -1,5 +1,5 @@
 ---
-title: "Writing"
+title: "Writing & Talks"
 layout: "list"
-summary: "Blog posts and publications"
+summary: "Publications, blog posts, and conference talks"
 ---
