@@ -19,6 +19,10 @@ I'm a Senior Machine Learning Engineer at [Duo Security (Cisco)](https://duo.com
 
 I'm exploring the intersection of cybersecurity and AI safety -- specifically, how decades of security methodology (threat modeling, detection engineering, red-teaming) can be applied to securing AI agents. I believe the next generation of AI safety defenses will draw heavily from cybersecurity's mature frameworks for adversarial robustness.
 
+## Beyond Work
+
+I serve on the board of [STEAMCoders](https://steamcoders.org), a nonprofit bringing STEAM education to underserved communities. I'm also working with STEAMCoders to build AI-powered operations and improve their data maturity -- applying the same agentic AI approaches I use professionally to help a mission-driven organization work smarter.
+
 ## Get in Touch
 
 - [GitHub](https://github.com/stevendleung)
