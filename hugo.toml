@@ -20,7 +20,7 @@ paginate = 10
     Content = """
 Senior Machine Learning Engineer focused on the intersection of cybersecurity and AI safety.
 
-I build ML-powered threat detection systems at [Duo Security (Cisco)](https://duo.com) and research how to make AI agents safer. My work spans adversarial detection, runtime agent security, and context engineering for agentic AI systems.
+I build ML-powered threat detection systems at [Duo Security (Cisco)](https://duo.com) and research how to make AI agents safer. My work spans adversarial detection, runtime agent security, and context engineering for agentic AI systems. I also design and build agentic AI solutions that help small businesses transform manual workflows into intelligent, automated operations.
 
 Currently exploring: runtime detection for AI agents, red-teaming agent safety classifiers, and applying cybersecurity methodology to AI safety problems.
 """
