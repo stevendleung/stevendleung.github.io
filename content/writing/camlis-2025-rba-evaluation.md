@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Risk-Based Authentication Effectiveness in Production 2FA Systems"
 date: 2025-10-01
-description: "Conference talk at CAMLIS 2025 — evaluating how heuristic and anomaly detection methods strengthen 2FA security against real-world attacks."
+description: "Conference talk at CAMLIS 2025, evaluating how heuristic and anomaly detection methods strengthen 2FA security against real-world attacks."
 tags: ["security", "ml-engineering", "threat-detection", "conference-talk"]
 author: "Steven Leung"
 externalUrl: "https://www.camlis.org/steven-leung-2025"

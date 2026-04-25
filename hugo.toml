@@ -27,9 +27,9 @@ I build ML-powered threat detection systems at [Duo Security (Cisco)](https://du
 Currently exploring: runtime detection for AI agents, red-teaming agent safety classifiers, and applying cybersecurity methodology to AI safety problems.
 
 **Publications & talks:**
-- [Agentic AI Security Threats](https://duo.com/blog/agentic-ai-security-threats) — Duo Security Blog, 2026
-- [Cisco Talos Year in Review: Attacks Against MFA](https://blog.talosintelligence.com/2025yearinreview/) — Talos Intelligence, 2025 & 2024
-- [Evaluating Risk-Based Authentication in Production 2FA Systems](https://www.camlis.org/steven-leung-2025) — CAMLIS 2025
+- [Agentic AI Security Threats](https://duo.com/blog/agentic-ai-security-threats), Duo Security Blog, 2026
+- [Cisco Talos Year in Review: Attacks Against MFA](https://blog.talosintelligence.com/2025yearinreview/), Talos Intelligence, 2025 & 2024
+- [Evaluating Risk-Based Authentication in Production 2FA Systems](https://www.camlis.org/steven-leung-2025), CAMLIS 2025
 - [Talos Takes Podcast: Passwordless Security](https://talostakes.talosintelligence.com/2018149/episodes/18062605-passwordless-security-debunking-the-biggest-myths) | [Identity & MFA Attacks](https://talostakes.talosintelligence.com/2018149/episodes/16988482-year-in-review-special-part-3-identity-and-mfa-attacks)
 """
 

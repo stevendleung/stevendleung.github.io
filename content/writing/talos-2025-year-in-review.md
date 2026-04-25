@@ -1,5 +1,5 @@
 ---
-title: "Cisco Talos 2025 Year in Review — Attacks Against MFA"
+title: "Cisco Talos 2025 Year in Review: Attacks Against MFA"
 date: 2025-12-15
 description: "Contributed analysis on attacks against multi-factor authentication to Cisco Talos' annual threat intelligence report."
 tags: ["security", "threat-detection", "mfa", "threat-intelligence"]
