@@ -48,11 +48,6 @@ Currently exploring: runtime detection for AI agents, red-teaming agent safety c
     url = "/writing/"
     weight = 10
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 20
-  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
