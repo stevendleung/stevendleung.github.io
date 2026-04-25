@@ -44,7 +44,7 @@ Currently exploring: runtime detection for AI agents, red-teaming agent safety c
 [menu]
   [[menu.main]]
     identifier = "writing"
-    name = "Writing & Talks"
+    name = "Blog"
     url = "/writing/"
     weight = 10
   [[menu.main]]

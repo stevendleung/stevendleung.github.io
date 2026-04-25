@@ -1,5 +1,5 @@
 ---
-title: "Writing & Talks"
+title: "Blog"
 layout: "list"
-summary: "Publications, blog posts, and conference talks"
+summary: "Thoughts on agentic AI, security, and building with AI systems"
 ---
