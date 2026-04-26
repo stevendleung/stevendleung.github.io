@@ -26,5 +26,5 @@ I serve on the board of [STEAMCoders](https://steamcoders.org), a nonprofit brin
 ## Get in Touch
 
 - [GitHub](https://github.com/stevendleung)
-- [LinkedIn](https://linkedin.com/in/stevendleung)
+- [LinkedIn](https://linkedin.com/in/steven-leung)
 - stevendukeleung (at) gmail.com
